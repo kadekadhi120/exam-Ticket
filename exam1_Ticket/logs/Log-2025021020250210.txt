@@ -1,0 +1,28 @@
+2025-02-10 22:04:40.502 +07:00 [INF] 🚀 Application is starting...
+2025-02-10 22:04:40.742 +07:00 [INF] Now listening on: http://localhost:5038
+2025-02-10 22:04:40.878 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-10 22:04:40.879 +07:00 [INF] Hosting environment: Development
+2025-02-10 22:04:40.879 +07:00 [INF] Content root path: C:\Magang\exam1\exam1_Ticket
+2025-02-10 22:04:40.944 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5038/swagger/index.html - null null
+2025-02-10 22:04:41.336 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5038/swagger/index.html - 200 null text/html;charset=utf-8 393.891ms
+2025-02-10 22:04:41.366 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5038/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-10 22:04:41.366 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5038/_vs/browserLink - null null
+2025-02-10 22:04:41.369 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5038/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 4.2626ms
+2025-02-10 22:04:41.406 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5038/_vs/browserLink - 200 null text/javascript; charset=UTF-8 40.8933ms
+2025-02-10 22:04:41.788 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5038/swagger/v1/swagger.json - null null
+2025-02-10 22:04:41.805 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5038/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 16.1663ms
+2025-02-10 22:06:42.247 +07:00 [INF] 🚀 Application is starting...
+2025-02-10 22:06:42.440 +07:00 [INF] Now listening on: http://localhost:5038
+2025-02-10 22:06:42.536 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-10 22:06:42.537 +07:00 [INF] Hosting environment: Development
+2025-02-10 22:06:42.537 +07:00 [INF] Content root path: C:\Magang\exam1\exam1_Ticket
+2025-02-10 22:06:42.894 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5038/swagger/index.html - null null
+2025-02-10 22:06:43.048 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5038/swagger/index.html - 200 null text/html;charset=utf-8 156.282ms
+2025-02-10 22:06:43.060 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5038/_vs/browserLink - null null
+2025-02-10 22:06:43.060 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5038/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-10 22:06:43.063 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5038/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 3.8056ms
+2025-02-10 22:06:43.089 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5038/_vs/browserLink - 200 null text/javascript; charset=UTF-8 29.2399ms
+2025-02-10 22:06:43.178 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5038/swagger/v1/swagger.json - null null
+2025-02-10 22:06:43.187 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5038/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 9.0494ms
+2025-02-10 22:07:01.866 +07:00 [INF] Application is shutting down...
+2025-02-10 22:07:01.875 +07:00 [INF] 🛑 Application is shutting down...

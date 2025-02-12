@@ -1,0 +1,14 @@
+C:\Magang\exam1\Ticket.Entites\bin\Debug\net8.0\Ticket.Entites.deps.json
+C:\Magang\exam1\Ticket.Entites\bin\Debug\net8.0\Ticket.Entites.runtimeconfig.json
+C:\Magang\exam1\Ticket.Entites\bin\Debug\net8.0\Ticket.Entites.dll
+C:\Magang\exam1\Ticket.Entites\bin\Debug\net8.0\Ticket.Entites.pdb
+C:\Magang\exam1\Ticket.Entites\obj\Debug\net8.0\Ticket.Entites.csproj.AssemblyReference.cache
+C:\Magang\exam1\Ticket.Entites\obj\Debug\net8.0\Ticket.Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Magang\exam1\Ticket.Entites\obj\Debug\net8.0\Ticket.Entites.AssemblyInfoInputs.cache
+C:\Magang\exam1\Ticket.Entites\obj\Debug\net8.0\Ticket.Entites.AssemblyInfo.cs
+C:\Magang\exam1\Ticket.Entites\obj\Debug\net8.0\Ticket.Entites.csproj.CoreCompileInputs.cache
+C:\Magang\exam1\Ticket.Entites\obj\Debug\net8.0\Ticket.Entites.dll
+C:\Magang\exam1\Ticket.Entites\obj\Debug\net8.0\refint\Ticket.Entites.dll
+C:\Magang\exam1\Ticket.Entites\obj\Debug\net8.0\Ticket.Entites.pdb
+C:\Magang\exam1\Ticket.Entites\obj\Debug\net8.0\Ticket.Entites.genruntimeconfig.cache
+C:\Magang\exam1\Ticket.Entites\obj\Debug\net8.0\ref\Ticket.Entites.dll
