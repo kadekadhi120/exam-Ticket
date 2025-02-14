@@ -71,43 +71,7 @@ namespace exam1_Ticket.Controllers
         }
 
 
-        //[HttpPost("book-ticket")]
-        //public async Task<IActionResult> BookTicket([FromBody] List<BookedTiketRequest> requests)
-        //{
-        //    try
-        //    {
-        //        var bookedTickets = new List<object>();
-
-
-        //        foreach (var request in requests)
-        //        {
-        //            var data = await _service.BookTicket(request.TicketCode, request.Quantity);
-        //            bookedTickets.Add(data);
-
-        //            }
-
-
-
-        //        return Ok(new
-        //        {
-        //            success = true,
-        //            message = "Available tickets retrieved successfully.",
-        //            bookedTickets
-        //        });
-        //    }
-        //    catch (Exception ex)
-        //    {
-        //        return StatusCode(500, new ProblemDetails
-        //        {
-
-        //            Title = "Internal Server Error",
-        //            Status = 500,
-        //            Detail = ex.Message,
-        //            Instance = HttpContext.Request.Path
-        //        });
-        //    }
-        //}
-
+   
 
         [HttpPost("book-ticket")]
         public async Task<IActionResult> BookTicket([FromBody] List<BookedTiketRequest> requests)
@@ -231,7 +195,7 @@ namespace exam1_Ticket.Controllers
         [HttpPut("api/v1/edit-booked-ticket/{BookedTicketId}")]
         public async Task<IActionResult> EditBookedTicket([FromRoute] Guid BookedTicketId, [FromBody] EditBookedTicketRequest request)
         {
-            // Kirim BookedTicketId dari URL ke service
+            
             var result = await _service.EditBookedTicket(BookedTicketId, request);
 
             // Cek status dari result

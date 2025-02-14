@@ -136,7 +136,7 @@ namespace exam1_Ticket.Services
                     .ExecuteUpdateAsync(t =>
                         t.SetProperty(tk => tk.Quota, tk => tk.Quota - quantity));
 
-                // Simpan booked tiket
+                
                 await _db.BookedTikets.AddAsync(bookedTiket);
                 await _db.SaveChangesAsync();
 
@@ -198,7 +198,7 @@ namespace exam1_Ticket.Services
 
 
 
-            // Validasi: Hanya terima jika ID ada di BookedTikets
+            
             if (!isBookedTicketId)
             {
                 return null;
@@ -378,20 +378,20 @@ namespace exam1_Ticket.Services
                 if (bookedTicketToUpdate != null)
                 {
 
-                    // Hitung selisih quantity lama dan baru
+                   
                     int selisihQuantity = ticketRequest.Quantity - bookedTicketToUpdate.Quantity;
 
-                    // Update quantity di booked tiket
+                    
                     bookedTicketToUpdate.Quantity = ticketRequest.Quantity;
                     _db.BookedTikets.Update(bookedTicketToUpdate);
 
-                    // Update quota di tabel tiket
+                    
                     var ticket = await _db.Tickets
                         .FirstOrDefaultAsync(t => t.TicketCode == ticketRequest.TicketCode);
 
                     if (ticket != null)
                     {
-                        // Sesuaikan sisa quota berdasarkan selisih quantity
+                        
                         ticket.Quota -= selisihQuantity;
                         _db.Tickets.Update(ticket);
                     }
