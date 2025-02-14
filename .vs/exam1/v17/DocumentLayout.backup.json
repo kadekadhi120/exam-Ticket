@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Magang\\exam1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Magang\\exam1\\exam1_Ticket\\Services\\TicketService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exam1_Ticket\\Services\\TicketService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Magang\\exam1\\exam1_Ticket\\Controllers\\TicketController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exam1_Ticket\\Controllers\\TicketController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Magang\\exam1\\exam1_Ticket\\exam1_Ticket.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exam1_Ticket\\exam1_Ticket.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Magang\\exam1\\exam1_Ticket\\exam1_Ticket.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exam1_Ticket\\exam1_Ticket.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Magang\\exam1\\exam1_Ticket\\exam1_Ticket.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exam1_Ticket\\exam1_Ticket.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 354,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Magang\\exam1\\exam1_Ticket\\Services\\TicketService.cs",
+              "RelativeDocumentMoniker": "exam1_Ticket\\Services\\TicketService.cs",
+              "ToolTip": "C:\\Magang\\exam1\\exam1_Ticket\\Services\\TicketService.cs",
+              "RelativeToolTip": "exam1_Ticket\\Services\\TicketService.cs",
+              "ViewState": "AgIAACIBAAAAAAAAAAAuwE0BAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:19:18.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Magang\\exam1\\exam1_Ticket\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "exam1_Ticket\\Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Magang\\exam1\\exam1_Ticket\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "exam1_Ticket\\Controllers\\TicketController.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAuwJMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:18:53.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "exam1_Ticket.http",
+              "DocumentMoniker": "C:\\Magang\\exam1\\exam1_Ticket\\exam1_Ticket.http",
+              "RelativeDocumentMoniker": "exam1_Ticket\\exam1_Ticket.http",
+              "ToolTip": "C:\\Magang\\exam1\\exam1_Ticket\\exam1_Ticket.http",
+              "RelativeToolTip": "exam1_Ticket\\exam1_Ticket.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-14T05:18:42.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "exam1_Ticket.csproj.user",
+              "DocumentMoniker": "C:\\Magang\\exam1\\exam1_Ticket\\exam1_Ticket.csproj.user",
+              "RelativeDocumentMoniker": "exam1_Ticket\\exam1_Ticket.csproj.user",
+              "ToolTip": "C:\\Magang\\exam1\\exam1_Ticket\\exam1_Ticket.csproj.user",
+              "RelativeToolTip": "exam1_Ticket\\exam1_Ticket.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-02-14T05:18:40.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "exam1_Ticket.csproj",
+              "DocumentMoniker": "C:\\Magang\\exam1\\exam1_Ticket\\exam1_Ticket.csproj",
+              "RelativeDocumentMoniker": "exam1_Ticket\\exam1_Ticket.csproj",
+              "ToolTip": "C:\\Magang\\exam1\\exam1_Ticket\\exam1_Ticket.csproj",
+              "RelativeToolTip": "exam1_Ticket\\exam1_Ticket.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T05:18:38.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 46,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

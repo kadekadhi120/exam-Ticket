@@ -12,3 +12,4 @@ C:\Magang\exam1\Ticket.Entites\obj\Debug\net8.0\refint\Ticket.Entites.dll
 C:\Magang\exam1\Ticket.Entites\obj\Debug\net8.0\Ticket.Entites.pdb
 C:\Magang\exam1\Ticket.Entites\obj\Debug\net8.0\Ticket.Entites.genruntimeconfig.cache
 C:\Magang\exam1\Ticket.Entites\obj\Debug\net8.0\ref\Ticket.Entites.dll
+C:\Magang\exam1\Ticket.Entites\obj\Debug\net8.0\Ticket.Entites.sourcelink.json

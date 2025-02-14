@@ -100,3 +100,4 @@ C:\Magang\exam1\exam1_Ticket\bin\Debug\net8.0\System.IO.Pipelines.dll
 C:\Magang\exam1\exam1_Ticket\bin\Debug\net8.0\System.Text.Encodings.Web.dll
 C:\Magang\exam1\exam1_Ticket\bin\Debug\net8.0\System.Text.Json.dll
 C:\Magang\exam1\exam1_Ticket\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Magang\exam1\exam1_Ticket\obj\Debug\net8.0\exam1_Ticket.sourcelink.json

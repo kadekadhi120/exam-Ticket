@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\exam1_Ticket",
+    "\\exam1_Ticket\\Controllers",
+    "\\exam1_Ticket\\Model",
+    "\\exam1_Ticket\\Properties",
+    "\\exam1_Ticket\\Services",
+    "\\Ticket.Entites"
+  ],
+  "SelectedNode": "\\exam1_Ticket\\Services\\TicketService.cs",
+  "PreviewInSolutionExplorer": false
+}
