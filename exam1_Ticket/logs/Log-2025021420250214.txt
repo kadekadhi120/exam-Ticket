@@ -2109,3 +2109,27 @@ WHERE [t].[TicketCode] = @__ticketRequest_TicketCode_0
 2025-02-14 13:46:11.274 +07:00 [INF] Executed action exam1_Ticket.Controllers.TicketController.EditBookedTicket (exam1_Ticket) in 9.8317ms
 2025-02-14 13:46:11.274 +07:00 [INF] Executed endpoint 'exam1_Ticket.Controllers.TicketController.EditBookedTicket (exam1_Ticket)'
 2025-02-14 13:46:11.274 +07:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5038/api/v1/api/v1/edit-booked-ticket/3EF41250-E511-49C7-95FC-25F7E7BE1E2E - 400 null application/json; charset=utf-8 10.4293ms
+2025-02-14 15:17:30.453 +07:00 [INF] 🚀 Application is starting...
+2025-02-14 15:17:30.735 +07:00 [INF] Now listening on: http://localhost:5038
+2025-02-14 15:17:30.852 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-14 15:17:30.853 +07:00 [INF] Hosting environment: Development
+2025-02-14 15:17:30.853 +07:00 [INF] Content root path: C:\Magang\exam1\exam1_Ticket
+2025-02-14 15:17:31.248 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5038/swagger - null null
+2025-02-14 15:17:31.420 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5038/swagger - 301 0 null 175.4992ms
+2025-02-14 15:17:31.423 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5038/swagger/index.html - null null
+2025-02-14 15:17:31.504 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5038/swagger/index.html - 200 null text/html;charset=utf-8 81.5457ms
+2025-02-14 15:17:31.531 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5038/swagger/swagger-ui.css - null null
+2025-02-14 15:17:31.534 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5038/swagger/swagger-ui-bundle.js - null null
+2025-02-14 15:17:31.535 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5038/swagger/swagger-ui-standalone-preset.js - null null
+2025-02-14 15:17:31.535 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5038/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-14 15:17:31.535 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5038/_vs/browserLink - null null
+2025-02-14 15:17:31.537 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5038/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 2.4961ms
+2025-02-14 15:17:31.562 +07:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-02-14 15:17:31.563 +07:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-02-14 15:17:31.564 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5038/swagger/swagger-ui.css - 200 152034 text/css 33.2522ms
+2025-02-14 15:17:31.564 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5038/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 29.3901ms
+2025-02-14 15:17:31.586 +07:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-02-14 15:17:31.586 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5038/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 52.9043ms
+2025-02-14 15:17:31.597 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5038/_vs/browserLink - 200 null text/javascript; charset=UTF-8 61.6218ms
+2025-02-14 15:17:31.812 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5038/swagger/v1/swagger.json - null null
+2025-02-14 15:17:31.824 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5038/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 12.0461ms

@@ -27,12 +27,12 @@ namespace exam1_Ticket.Services
     string? orderState)
         {
             var query = _db.Tickets
-                .Where(Q => Q.Quota > 0) 
+                .Where(Q => Q.Quota > 0)
                 .Select(Q => new TicketModel
                 {
                     TicketCode = Q.TicketCode,
                     TicketName = Q.TicketName,
-                    CategoryName = Q.Category.CategoryName, 
+                    CategoryName = Q.Category.CategoryName,
                     TanggalEvent = Q.TanggalEvent.ToDateTime(TimeOnly.MinValue),
                     Price = Q.Price,
                     Quota = Q.Quota
@@ -196,7 +196,7 @@ namespace exam1_Ticket.Services
             var isBookedTicketId = await _db.BookedTikets
                 .AnyAsync(bt => bt.BookedTicketId == bookedTicketId);
 
-            
+
 
             // Validasi: Hanya terima jika ID ada di BookedTikets
             if (!isBookedTicketId)
@@ -239,7 +239,7 @@ namespace exam1_Ticket.Services
             {
                 return new ProblemDetails
                 {
-                    
+
                     Title = "Booked Ticket Not Found",
                     Status = 404,
                     Detail = "Booked Ticket ID tidak terdaftar di database.",
@@ -253,7 +253,7 @@ namespace exam1_Ticket.Services
             {
                 return new ProblemDetails
                 {
-                   
+
                     Title = "Invalid Ticket Code",
                     Status = 400,
                     Detail = "Kode Ticket tidak terdaftar atau tidak sesuai.",
@@ -266,7 +266,7 @@ namespace exam1_Ticket.Services
             {
                 return new ProblemDetails
                 {
-                    
+
                     Title = "Quantity Exceeded",
                     Status = 400,
                     Detail = "Quantity tidak boleh melebihi jumlah tiket yang sudah di booking.",
@@ -320,7 +320,7 @@ namespace exam1_Ticket.Services
             var bookedTicket = await _db.BookedTikets
                 .Include(bt => bt.Ticket)
                 .ThenInclude(t => t.Category)
-                .Where(bt => bt.BookedTicketId == bookedTicketId) 
+                .Where(bt => bt.BookedTicketId == bookedTicketId)
                 .ToListAsync();
 
             if (bookedTicket == null || !bookedTicket.Any())
@@ -377,7 +377,7 @@ namespace exam1_Ticket.Services
 
                 if (bookedTicketToUpdate != null)
                 {
-                   
+
                     // Hitung selisih quantity lama dan baru
                     int selisihQuantity = ticketRequest.Quantity - bookedTicketToUpdate.Quantity;
 
@@ -425,3 +425,5 @@ namespace exam1_Ticket.Services
         }
     }
 }
+
+
